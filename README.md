@@ -11,5 +11,3 @@
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hasnainkhan2004&show_icons=true&locale=en&layout=compact" alt="hasnainkhan2004" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hasnainkhan2004&show_icons=true&locale=en" alt="hasnainkhan2004" /></p>
