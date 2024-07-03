@@ -7,8 +7,8 @@
 <p align="left">
 <a href="https://linkedin.com/in/hasnain khan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hasnain khan" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/25693716" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="25693716" height="30" width="40" /></a>
-<a href="https://fb.com/hasnain.khan.1460" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hasnain.khan.1460" height="30" width="40" /></a>
 <a href="https://instagram.com/_.hasnain_.khan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_.hasnain_.khan" height="30" width="40" /></a>
+<a href="https://fb.com/hasnain.khan.1460" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hasnain.khan.1460" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
