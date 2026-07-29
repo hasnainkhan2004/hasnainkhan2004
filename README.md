@@ -39,8 +39,4 @@
 
 ---
 
-### 🏆 Trophies
 
-<p align="center">
-  <img src="https://github-profile-trophy-winning.vercel.app/?username=hasnainkhan2004&theme=onedark&no-frame=true&row=1&column=6" />
-</p>
